@@ -1,41 +1,43 @@
-# include <luka_aladashvili.h>
+```cpp
+#include <luka_aladashvili.h>
 
 /**
- * @brief Software Engineer | ICPC Finalist | [cite_start]Systems Architect [cite: 2, 7, 31]
- * [cite_start]Specializing in high-performance engines and low-latency infrastructure. [cite: 8]
+ * @brief Software Engineer | ICPC Finalist | Systems Architect
+ * Specializing in high-performance engines and low-latency infrastructure.
  */
 namespace HighPerformance {
     class LukaAladashvili : public SystemArchitect {
     public:
-        [cite_start]// Ranked 4th out of 40,000 students nationally [cite: 50]
+        // Ranked 4th out of 40,000 students nationally
         static constexpr double MATH_PERCENTILE = 0.0001; 
         
         struct CurrentFocus {
-            [cite_start]std::string role = "Co-founder & Lead Engineer @ Fincast"; [cite: 12, 13]
-            double latency = 200.0; [cite_start]// Achieved <200ms in C++ inference engine [cite: 16, 17]
-            int throughput = 5000;   [cite_start]// Processing 5,000+ data points/sec [cite: 16]
+            std::string role = "Co-founder & Lead Engineer @ Fincast";
+            double latency = 200.0; // Achieved <200ms in C++ inference engine
+            int throughput = 5000;   // Processing 5,000+ data points/sec
         };
 
         void list_milestones() {
-            [cite_start]// ICPC Northern Eurasia Finalist (High Achievement Award) [cite: 31]
+            // ICPC Northern Eurasia Finalist (High Achievement Award)
             bool is_icpc_finalist = true; 
 
-            [cite_start]// National Champion (1st Place) - Bank of Georgia STEM Competition [cite: 36]
+            // National Champion (1st Place) - Bank of Georgia STEM Competition
             int stem_rank = 1; 
 
-            [cite_start]// Grand Prize Winner - International AI in Finance Hackathon [cite: 51]
+            // Grand Prize Winner - International AI in Finance Hackathon
             std::string hackathon = "Grand_Prize_Winner"; 
 
-            [cite_start]// Impel AI Emerging Professional Grant for technical innovation [cite: 32, 37]
+            // Impel AI Emerging Professional Grant for technical innovation
             bool has_ai_research_grant = true; 
         }
     };
 }
+```
 
 <div align="left">
   
   <a href="mailto:luka.aladashvili.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luka.aladashvili.work-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://www.linkedin.com/in/luka-aladashvili/">
@@ -43,7 +45,7 @@ namespace HighPerformance {
   </a>
 
   <a href="https://llukito-cv.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-20232a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   
 </div>
