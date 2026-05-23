@@ -2,8 +2,8 @@
 #include <luka_aladashvili.h>
 
 /**
- * @brief Software Engineer | ICPC Finalist | Systems Architect
- * Specializing in high-performance engines and low-latency infrastructure.
+ * @brief Software Engineer | AI Infrastructure | ICPC Finalist
+ * Specializing in high-performance engines, scalable models, and low-latency systems.
  */
 namespace HighPerformance {
     class LukaAladashvili : public SystemArchitect {
@@ -12,10 +12,12 @@ namespace HighPerformance {
         static constexpr double MATH_PERCENTILE = 0.0001; 
         
         struct CurrentFocus {
-            std::string role = "Co-founder & Lead Engineer @ Fincast";
-            double latency = 200.0; // Achieved <200ms in C++ inference engine
-            int throughput = 5000;   // Processing 5,000+ data points/sec
-        };
+            std::string industry_role = "Software Engineering Specialist @ xAI";
+            std::string startup_role = "Founder & Lead Engineer @ Fincast";
+            
+            double inference_latency_ms = 200.0; // Achieved <200ms in C++ inference engine
+            int throughput = 5000;               // Processing 5,000+ data points/sec
+        } focus;
 
         void list_milestones() {
             // ICPC Northern Eurasia Finalist (High Achievement Award)
