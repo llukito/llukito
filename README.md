@@ -2,7 +2,7 @@
 #include <luka_aladashvili.h>
 
 /**
- * @brief Software Engineer | AI Infrastructure | ICPC Finalist
+ * @brief Software Engineer | AI Infrastructure | ICPC Northern Eurasia Finalist
  * Specializing in high-performance engines, scalable models, and low-latency systems.
  */
 namespace HighPerformance {
