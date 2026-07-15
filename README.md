@@ -47,7 +47,7 @@ namespace HighPerformance {
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="https://llukito-cv.vercel.app/">
+  <a href="https://llukito.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
