@@ -1,5 +1,7 @@
 ```cpp
 #include <luka_aladashvili.h>
+#include <string>
+#include <vector>
 
 /**
  * @brief Software Engineer | AI Infrastructure | ICPC Northern Eurasia Finalist
@@ -10,11 +12,22 @@ namespace HighPerformance {
     public:
         // Ranked 4th out of 40,000 students nationally
         static constexpr double MATH_PERCENTILE = 0.0001; 
-        
+
         struct CurrentFocus {
             std::string industry_role = "Software Engineering Specialist @ xAI";
             std::string startup_role = "Founder & Lead Engineer @ Fincast";
             
+            // Backed by Startupbootcamp and major capital grants for R&D
+            bool massive_fincast_grants_secured = true; 
+            
+            // Supported by elite compute and AI infrastructure programs
+            std::vector<std::string> tech_partnerships = {
+                "NVIDIA Inception",
+                "Anthropic (Claude)",
+                "Google Cloud",
+                "AWS"
+            };
+
             double inference_latency_ms = 200.0; // Achieved <200ms in C++ inference engine
             int throughput = 5000;               // Processing 5,000+ data points/sec
         } focus;
@@ -34,20 +47,3 @@ namespace HighPerformance {
         }
     };
 }
-```
-
-<div align="left">
-  
-  <a href="mailto:luka.aladashvili.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/luka-aladashvili/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://llukito-cv.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  
-</div>
