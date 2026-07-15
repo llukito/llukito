@@ -1,7 +1,5 @@
 ```cpp
 #include <luka_aladashvili.h>
-#include <string>
-#include <vector>
 
 /**
  * @brief Software Engineer | AI Infrastructure | ICPC Northern Eurasia Finalist
@@ -14,36 +12,46 @@ namespace HighPerformance {
         static constexpr double MATH_PERCENTILE = 0.0001; 
 
         struct CurrentFocus {
-            std::string industry_role = "Software Engineering Specialist @ xAI";
-            std::string startup_role = "Founder & Lead Engineer @ Fincast";
+            const char* industry_role = "Software Engineering Specialist @ xAI";
+            const char* startup_role = "Founder & Lead Engineer @ Fincast";
             
-            // Backed by Startupbootcamp and major capital grants for R&D
-            bool massive_fincast_grants_secured = true; 
+            bool massive_fincast_grants_secured = true; // Backed by Startupbootcamp
             
             // Supported by elite compute and AI infrastructure programs
-            std::vector<std::string> tech_partnerships = {
-                "NVIDIA Inception",
-                "Anthropic (Claude)",
-                "Google Cloud",
-                "AWS"
-            };
+            const char* tech_partnerships[4] = {"NVIDIA Inception", "Anthropic", "GCP", "AWS"};
 
             double inference_latency_ms = 200.0; // Achieved <200ms in C++ inference engine
             int throughput = 5000;               // Processing 5,000+ data points/sec
         } focus;
 
         void list_milestones() {
-            // ICPC Northern Eurasia Finalist (High Achievement Award)
-            bool is_icpc_finalist = true; 
-
-            // National Champion (1st Place) - Bank of Georgia STEM Competition
-            int stem_rank = 1; 
-
-            // Grand Prize Winner - International AI in Finance Hackathon
-            std::string hackathon = "Grand_Prize_Winner"; 
-
-            // Impel AI Emerging Professional Grant for technical innovation
-            bool has_ai_research_grant = true; 
+            bool is_icpc_finalist = true; // Northern Eurasia Finalist
+            int stem_rank = 1;            // National Champion (1st Place) - Bank of Georgia 
+            
+            const char* hackathon = "Grand_Prize_Winner_Intl_AI_Finance"; 
+            bool has_ai_research_grant = true; // Impel AI Emerging Professional Grant
         }
     };
 }
+<p align="left">
+
+<a href="mailto:luka.aladashvili.work@gmail.com">
+
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+</a>
+
+<a href="https://www.linkedin.com/in/luka-aladashvili">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+</a>
+
+<a href="https://llukito-cv.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+
+</a>
+
+</p>
+
