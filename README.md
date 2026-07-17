@@ -12,7 +12,7 @@ namespace HighPerformance {
         static constexpr double MATH_PERCENTILE = 0.0001; 
 
         struct CurrentFocus {
-            const char* industry_role = "Software Engineering Specialist @ xAI";
+            const char* industry_role = "Software Engineering Specialist @ SpaceXAI";
             const char* startup_role = "Founder & Lead Engineer @ Fincast";
             
             bool massive_fincast_grants_secured = true; // Backed by Startupbootcamp
