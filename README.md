@@ -48,7 +48,7 @@ namespace HighPerformance {
   </a>
   &nbsp;
   <a href="https://llukito.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
